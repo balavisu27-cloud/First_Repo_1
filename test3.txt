@@ -1,2 +1,0 @@
-created for testing purpose. This folder created on the Visual studio console, this will be added and commit to the present folder.
-Then test3.txt will be pushed from local folder to internet repo which we have created  First_Repo_1
